@@ -1,2 +1,2 @@
-# FirtsGit
+# FirstGit
 Trying out Git
