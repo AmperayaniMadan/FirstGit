@@ -1,0 +1,14 @@
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\bin\Debug\Xam_Git1.dll
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\bin\Debug\Xam_Git1.pdb
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\bin\Debug\Xamarin.Forms.Core.dll
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\bin\Debug\Xamarin.Forms.Core.xml
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\obj\Debug\Xam_Git1.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\obj\Debug\Xam_Git1.dll
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\obj\Debug\Xam_Git1.pdb
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\obj\Debug\Xam_Git1.dll.mdb
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\bin\Debug\Xam_Git1.dll.mdb
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\obj\Debug\Xam_Git1.dll.mdb
+D:\Visual Studio 2015\Projects\Xam_Git1\Xam_Git1\Xam_Git1\bin\Debug\Xam_Git1.dll.mdb
