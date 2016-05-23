@@ -1,0 +1,2 @@
+# FirtsGit
+Trying out Git
